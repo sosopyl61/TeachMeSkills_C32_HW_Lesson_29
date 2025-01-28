@@ -1,2 +1,2 @@
-# TeachMeSkills_C32_HW_Lesson_29
-Homework for the 29th lesson.
+# The following task:
+Write examples for each of the SOLID principles (wrong/correct options).
